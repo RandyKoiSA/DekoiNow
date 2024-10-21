@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-17 15:44:00</sys_created_on>
+        <sys_id>14b198f983519210aa74ad20ceaad3bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_dekoinow_video_projects.x_snc_dekoinow.video_projects_user</sys_name>
+        <sys_package display_value="DekoiNow" source="x_snc_dekoinow">ae3b2c5d835d1210aa74ad20ceaad332</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DekoiNow">ae3b2c5d835d1210aa74ad20ceaad332</sys_scope>
+        <sys_security_acl display_value="x_snc_dekoinow_video_projects">58b198f983519210aa74ad20ceaad3aa</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_14b198f983519210aa74ad20ceaad3bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-17 15:44:00</sys_updated_on>
+        <sys_user_role display_value="x_snc_dekoinow.video_projects_user" name="x_snc_dekoinow.video_projects_user">44b198f983519210aa74ad20ceaad366</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DekoiNow">ae3b2c5d835d1210aa74ad20ceaad332</application>
+        <file_path/>
+        <instance_id>91f891e91b0dce9065324089bd4bcbbb</instance_id>
+        <instance_name>dev245462</instance_name>
+        <name>sys_security_acl_role_14b198f983519210aa74ad20ceaad3bc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-17 15:44:00</sys_created_on><sys_id>14b198f983519210aa74ad20ceaad3bc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_dekoinow_video_projects.x_snc_dekoinow.video_projects_user</sys_name><sys_package display_value="DekoiNow" source="x_snc_dekoinow">ae3b2c5d835d1210aa74ad20ceaad332</sys_package><sys_policy/><sys_scope display_value="DekoiNow">ae3b2c5d835d1210aa74ad20ceaad332</sys_scope><sys_security_acl display_value="x_snc_dekoinow_video_projects">58b198f983519210aa74ad20ceaad3aa</sys_security_acl><sys_update_name>sys_security_acl_role_14b198f983519210aa74ad20ceaad3bc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-17 15:44:00</sys_updated_on><sys_user_role display_value="x_snc_dekoinow.video_projects_user" name="x_snc_dekoinow.video_projects_user">44b198f983519210aa74ad20ceaad366</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>906342775</payload_hash>
+        <record_name>x_snc_dekoinow_video_projects.x_snc_dekoinow.video_projects_user</record_name>
+        <reverted_from/>
+        <source>002d305d839d1210aa74ad20ceaad381</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-17 15:44:00</sys_created_on>
+        <sys_id>5cb198f983519210aa74ad20ceaad3c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1929b266f530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-17 15:44:00</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>50b198f9f3519210733fee4c2aad31c0</update_guid>
+        <update_guid_history>50b198f9f3519210733fee4c2aad31c0:906342775</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_dekoinow_video_projects.x_snc_dekoinow.video_projects_user">ef12943d83519210aa74ad20ceaad3f1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-17 15:45:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>0b65ee7863ec498480b6f249e12c6f90</sys_id>
+        <sys_metadata>14b198f983519210aa74ad20ceaad3bc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_dekoinow_video_projects.x_snc_dekoinow.video_projects_user</sys_name>
+        <sys_package display_value="DekoiNow" source="x_snc_dekoinow">ae3b2c5d835d1210aa74ad20ceaad332</sys_package>
+        <sys_parent display_value="">58b198f983519210aa74ad20ceaad3aa</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="DekoiNow">ae3b2c5d835d1210aa74ad20ceaad332</sys_scope>
+        <sys_scope_delete display_value="">41167725f0cc42919975e37f2042a759</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_14b198f983519210aa74ad20ceaad3bc</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_14b198f983519210aa74ad20ceaad3bc">5cb198f983519210aa74ad20ceaad3c0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-17 15:45:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
